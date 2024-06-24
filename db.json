@@ -16,11 +16,6 @@
       "author": "Eleanor Roosevelt"
     },
     {
-      "id": "5",
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
-    },
-    {
       "id": "6",
       "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
       "author": "Audre Lorde"
@@ -32,23 +27,13 @@
     },
     {
       "id": "8",
-      "quote": "Don't count the days, make the days count.",
+      "quote": "Don",
       "author": "Muhammad Ali"
     },
     {
-      "id": "9",
-      "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-      "author": "James Baldwin"
-    },
-    {
-      "id": "10",
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "id": "11",
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
+      "id": "0209",
+      "quote": "I Love programing",
+      "author": "Elyas Shamal"
     }
   ],
   "likes": [
@@ -92,11 +77,11 @@
     },
     {
       "id": "3c37",
-      "quoteId": "5"
+      "quoteId": null
     },
     {
       "id": "d12e",
-      "quoteId": "5"
+      "quoteId": null
     },
     {
       "id": "fda6",
@@ -132,7 +117,7 @@
     },
     {
       "id": "b163",
-      "quoteId": "9"
+      "quoteId": null
     },
     {
       "id": "6319",
@@ -380,11 +365,95 @@
     },
     {
       "id": "c4cd",
-      "quoteId": "11"
+      "quoteId": null
     },
     {
       "id": "d172",
       "quoteId": "2"
+    },
+    {
+      "id": "2bc0",
+      "quoteId": null
+    },
+    {
+      "id": "b398",
+      "quoteId": null
+    },
+    {
+      "id": "205e",
+      "quoteId": null
+    },
+    {
+      "id": "8417",
+      "quoteId": null
+    },
+    {
+      "id": "1626",
+      "quoteId": null
+    },
+    {
+      "id": "fdd7",
+      "quoteId": null
+    },
+    {
+      "id": "2aa8",
+      "quoteId": "4"
+    },
+    {
+      "id": "ea2e",
+      "quoteId": "3"
+    },
+    {
+      "id": "6ca4",
+      "quoteId": "3"
+    },
+    {
+      "id": "eece",
+      "quoteId": "0209"
+    },
+    {
+      "id": "39e5",
+      "quoteId": "0209"
+    },
+    {
+      "id": "1262",
+      "quoteId": "3"
+    },
+    {
+      "id": "7816",
+      "quoteId": "0209"
+    },
+    {
+      "id": "5983",
+      "quoteId": "0209"
+    },
+    {
+      "id": "307a",
+      "quoteId": "0209"
+    },
+    {
+      "id": "7a72",
+      "quoteId": "0209"
+    },
+    {
+      "id": "c122",
+      "quoteId": "0209"
+    },
+    {
+      "id": "7d28",
+      "quoteId": "0209"
+    },
+    {
+      "id": "ef6a",
+      "quoteId": "0209"
+    },
+    {
+      "id": "7781",
+      "quoteId": "0209"
+    },
+    {
+      "id": "6467",
+      "quoteId": "8"
     }
   ]
 }
