@@ -1,71 +1,390 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
+      "id": "2",
       "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
       "author": "Hannah Gadsby"
     },
     {
-      "id": 3,
+      "id": "3",
       "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
       "author": "Alok Vaid Menon"
     },
     {
-      "id": 4,
+      "id": "4",
       "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
       "author": "Eleanor Roosevelt"
     },
     {
-      "id": 5,
+      "id": "5",
       "quote": "We had better not enjoy the moment, but create the moment.",
       "author": "Ai Weiwei"
     },
     {
-      "id": 6,
+      "id": "6",
       "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
       "author": "Audre Lorde"
     },
     {
-      "id": 7,
+      "id": "7",
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
     },
     {
-      "id": 8,
+      "id": "8",
       "quote": "Don't count the days, make the days count.",
       "author": "Muhammad Ali"
     },
     {
-      "id": 9,
+      "id": "9",
       "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
       "author": "James Baldwin"
     },
     {
-      "id": 10,
+      "id": "10",
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
     },
     {
-      "id": 11,
+      "id": "11",
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
     }
   ],
   "likes": [
     {
-      "id": 1,
+      "id": "1",
       "quoteId": 1,
       "createdAt": 1558524356
     },
     {
       "quoteId": 10,
-      "id": 2,
+      "id": "2",
       "createdAt": 1558524358
+    },
+    {
+      "id": "ba42",
+      "quoteId": null
+    },
+    {
+      "id": "9784",
+      "quoteId": null
+    },
+    {
+      "id": "6a92",
+      "quoteId": "2"
+    },
+    {
+      "id": "da60",
+      "quoteId": "3"
+    },
+    {
+      "id": "52fa",
+      "quoteId": "4"
+    },
+    {
+      "id": "5bb0",
+      "quoteId": null
+    },
+    {
+      "id": "36ee",
+      "quoteId": null
+    },
+    {
+      "id": "3c37",
+      "quoteId": "5"
+    },
+    {
+      "id": "d12e",
+      "quoteId": "5"
+    },
+    {
+      "id": "fda6",
+      "quoteId": "6"
+    },
+    {
+      "id": "8060",
+      "quoteId": "6"
+    },
+    {
+      "id": "4294",
+      "quoteId": "2"
+    },
+    {
+      "id": "c4a9",
+      "quoteId": "2"
+    },
+    {
+      "id": "40ff",
+      "quoteId": "7"
+    },
+    {
+      "id": "4b73",
+      "quoteId": "2"
+    },
+    {
+      "id": "63df",
+      "quoteId": "8"
+    },
+    {
+      "id": "a995",
+      "quoteId": "8"
+    },
+    {
+      "id": "b163",
+      "quoteId": "9"
+    },
+    {
+      "id": "6319",
+      "quoteId": 2
+    },
+    {
+      "id": "c1f3",
+      "quoteId": 2
+    },
+    {
+      "id": "8edf",
+      "quoteId": 10
+    },
+    {
+      "id": "bd1f",
+      "quoteId": 7
+    },
+    {
+      "id": "7321",
+      "quoteId": 2
+    },
+    {
+      "id": "6870",
+      "quoteId": 2
+    },
+    {
+      "id": "c60b",
+      "quoteId": 2
+    },
+    {
+      "id": "8970",
+      "quoteId": 3
+    },
+    {
+      "id": "0bcb",
+      "quoteId": 3
+    },
+    {
+      "id": "47b7",
+      "quoteId": 2
+    },
+    {
+      "id": "dae2",
+      "quoteId": 2
+    },
+    {
+      "id": "0c95",
+      "quoteId": 2
+    },
+    {
+      "id": "af9c",
+      "quoteId": 2
+    },
+    {
+      "id": "62a8",
+      "quoteId": 2
+    },
+    {
+      "id": "0644",
+      "quoteId": 2
+    },
+    {
+      "id": "5d16",
+      "quoteId": 2
+    },
+    {
+      "id": "0e52",
+      "quoteId": 2
+    },
+    {
+      "id": "b751",
+      "quoteId": 2
+    },
+    {
+      "id": "cc2b",
+      "quoteId": 2
+    },
+    {
+      "id": "97d9",
+      "quoteId": 2
+    },
+    {
+      "id": "e353",
+      "quoteId": 2
+    },
+    {
+      "id": "2bbc",
+      "quoteId": 8
+    },
+    {
+      "id": "bfe4",
+      "quoteId": 10
+    },
+    {
+      "id": "dda0",
+      "quoteId": 10
+    },
+    {
+      "id": "27e7",
+      "quoteId": 9
+    },
+    {
+      "id": "69d0",
+      "quoteId": 2
+    },
+    {
+      "id": "a647",
+      "quoteId": "2"
+    },
+    {
+      "id": "8089",
+      "quoteId": "3"
+    },
+    {
+      "id": "24c2",
+      "quoteId": "7"
+    },
+    {
+      "id": "e260",
+      "quoteId": "7"
+    },
+    {
+      "id": "b3fa",
+      "quoteId": "7"
+    },
+    {
+      "id": "8880",
+      "quoteId": null
+    },
+    {
+      "id": "43c1",
+      "quoteId": null
+    },
+    {
+      "id": "04d2",
+      "quoteId": null
+    },
+    {
+      "id": "b111",
+      "quoteId": null
+    },
+    {
+      "id": "e918",
+      "quoteId": null
+    },
+    {
+      "id": "91e2",
+      "quoteId": null
+    },
+    {
+      "id": "02d6",
+      "quoteId": null
+    },
+    {
+      "id": "49c6",
+      "quoteId": null
+    },
+    {
+      "id": "2352",
+      "quoteId": null
+    },
+    {
+      "id": "8e4e",
+      "quoteId": null
+    },
+    {
+      "id": "eae4",
+      "quoteId": null
+    },
+    {
+      "id": "91bb",
+      "quoteId": null
+    },
+    {
+      "id": "739c",
+      "quoteId": null
+    },
+    {
+      "id": "fbbc",
+      "quoteId": null
+    },
+    {
+      "id": "2783",
+      "quoteId": null
+    },
+    {
+      "id": "3693",
+      "quoteId": null
+    },
+    {
+      "id": "355d",
+      "quoteId": null
+    },
+    {
+      "id": "dabf",
+      "quoteId": null
+    },
+    {
+      "id": "d6f9",
+      "quoteId": null
+    },
+    {
+      "id": "f889",
+      "quoteId": null
+    },
+    {
+      "id": "3480",
+      "quoteId": "2"
+    },
+    {
+      "id": "c80b",
+      "quoteId": "2"
+    },
+    {
+      "id": "a0fa",
+      "quoteId": "2"
+    },
+    {
+      "id": "a69f",
+      "quoteId": "2"
+    },
+    {
+      "id": "17d6",
+      "quoteId": "3"
+    },
+    {
+      "id": "9239",
+      "quoteId": "3"
+    },
+    {
+      "id": "feb3",
+      "quoteId": "3"
+    },
+    {
+      "id": "5ed2",
+      "quoteId": "3"
+    },
+    {
+      "id": "8f06",
+      "quoteId": "3"
+    },
+    {
+      "id": "17cb",
+      "quoteId": "3"
+    },
+    {
+      "id": "c4cd",
+      "quoteId": "11"
+    },
+    {
+      "id": "d172",
+      "quoteId": "2"
     }
   ]
 }
